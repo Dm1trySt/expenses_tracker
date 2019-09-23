@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version='1.0' encoding='UTF-8'?> 
 <expenses>
-  <expense date="09.07.2019" category="Образование" amount="900">
-    Книжка по Ruby on Rails
+  <expense amount='900' category='Образование' date='9.7.2015'>
+     Книжка по Ruby on Rails 
   </expense>
-  <expense date="01.07.2019" category="Студия" amount="400">
-    Петличка и провода
+  <expense amount='400' category='Хороший программист' date='1.7.2015'>
+     Петличка и провода 
   </expense>
-  <expense date="23.06.2019" category="Студия" amount="3500">
-    Софтбокс + штатив
+  <expense amount='3500' category='Хороший программист' date='23.6.2015'>
+     Софтбокс + штатив 
+  </expense>
+  <expense amount='3000' category='Образование' date='2019-09-24'>
+    Новый урок Jаva
   </expense>
 </expenses>
